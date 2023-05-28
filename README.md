@@ -7,3 +7,7 @@ Se describe la estrategia de pruebas utilizada para las 8 semanas en donde se de
 ## Enlace al video
 
 https://drive.google.com/file/d/1w6gFu6tEtvxobCRfDPa93AiShB_pEp-d/view?usp=sharing
+
+## Enlace al documento de estrategia de pruebas
+
+https://docs.google.com/document/d/1olKPElJ1F8AqVowLvQrnxPPCjXghQ3BdTkMnc3D8L08/edit
